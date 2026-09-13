@@ -1,8 +1,8 @@
 # Git / GitHub 講座
 
-自分の班のリポジトリを開き、READMEの「最初に」から進めてください。班番号は当日の講師の案内を確認してください。
+講師が案内した自分の班を開き、READMEの「最初に」から進めてください。
 
-4〜6人で担当A〜Fを決めます。4人はA〜D、5人はA〜E、6人はA〜Fを使います。使わない班や担当のIssueを進める必要はありません。
+4人はA〜D、5人はA〜E、6人はA〜Fを使います。使わない班や担当のIssueを進める必要はありません。
 
 | 班 | 作業場所 | 課題 | レビュー |
 |---|---|---|---|
@@ -17,16 +17,10 @@
 | 9班 | [team-09](https://github.com/soft03-git-workshop/team-09) | [Issues](https://github.com/soft03-git-workshop/team-09/issues) | [Pull requests](https://github.com/soft03-git-workshop/team-09/pulls) |
 | 10班 | [team-10](https://github.com/soft03-git-workshop/team-10) | [Issues](https://github.com/soft03-git-workshop/team-10/issues) | [Pull requests](https://github.com/soft03-git-workshop/team-10/pulls) |
 
-## 今日の流れ
-
 Issue → ブランチ → 編集・commit → push → PR → レビュー・修正 → 承認・マージ → mainを手元に取り込む。
 
 最初のPRができたら講師の案内を確認してください。追加の修正を同じPRに反映してからマージする練習を行います。2周目は新しいIssueと新しいブランチで進めます。
 
-## 公開する情報
+リポジトリ・履歴・PR・コメントは公開されます。自己紹介はニックネーム・架空の内容でも参加できます。最初のcommit前に各班の公開時の注意と準備チェックを読んでください。
 
-リポジトリ、変更履歴、PR、コメントは公開されます。自己紹介はニックネーム・架空の内容でも参加できます。最初のcommit前に、各班のREADMEから公開時の注意と準備チェックを読んでください。
-
-## 作業を始める前に
-
-Organizationへの招待承諾と、班へのアクセス権の割り当てが必要です。publicリポジトリが見えるだけではpushできるとは限りません。困ったら講師・サポートへ知らせてください。
+Organizationへの招待承諾と班への権限割り当てが必要です。publicリポジトリが見えるだけではpushできるとは限りません。困ったら講師・サポートへ知らせてください。
